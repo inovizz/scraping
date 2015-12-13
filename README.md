@@ -8,6 +8,6 @@ Author: Sanchit
 
 Sites Crawled:
 
-1) wikimapia for Winne The Pooh Characters
+1) Wikia for Winne The Pooh Characters
 
-2) Wikimapia for Star Wars Characters
+2) Wikia for Star Wars Characters
